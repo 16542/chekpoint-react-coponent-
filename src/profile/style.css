@@ -1,0 +1,39 @@
+*/{
+    margin-left: 10%;
+    padding: 0%;
+}
+
+.head > h1 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200;
+}
+
+.head > p {
+    font-size: 50px;
+    font-family: 'Times New Roman', serif;
+}
+
+
+.picture > h1{
+    color: blue ;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200;
+}
+
+.picture > img{
+    margin-left: 5%;
+    border-radius: 20px;
+}
+
+.add> h1{
+color: seagreen;
+font-family: 'Courier New', Courier, monospace;
+font-size: 200;
+}
+
+ .add >p{
+    font-family: 'Times New Roman', serif;
+    font-size: 50px;
+
+ }
